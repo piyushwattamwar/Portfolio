@@ -5,36 +5,35 @@ const projects = [
     title: "📝 NoteWise — Smart AI-Powered Notes and Study App",
     description:
       "NoteWise is a full-stack MERN app that lets users create, organize, and manage notes with smart AI features like title suggestion, auto-categorization, summarization, and MCQ-based test generation.",
-    img: "/img/img-1.png",
+    img: "/img/img-5.png",
     liveLink: "https://notewise-frontend.onrender.com/",
     codeLink: "https://github.com/piyushwattamwar/NoteWise",
   },
   {
-  title: "🧠 Smart Diabetes Predictor — ML Health App",
-  description:
-    "Smart Diabetes Predictor is an interactive web app built with Streamlit and machine learning. It predicts diabetes risk using medical parameters like BMI, glucose, and blood pressure. Features include multi-language support, voice input/output, dark mode, charts, and a model trained with Logistic Regression, Random Forest, and XGBoost — optimized using SMOTE.",
-  img: "/img/diabetes-predictor.png", // Replace with actual image path
-  liveLink: "smart-diabetes-prediction.streamlit.app",
-  codeLink: "https://github.com/piyushwattamwar/Smart-Diabetes-Prediction",
-},
+    title: "🧠 Smart Diabetes Predictor — ML Health App",
+    description:
+      "Smart Diabetes Predictor is an interactive web app built with Streamlit and machine learning. It predicts diabetes risk using medical parameters like BMI, glucose, and blood pressure. Features include multi-language support, voice input/output, dark mode, charts, and a model trained with Logistic Regression, Random Forest, and XGBoost — optimized using SMOTE.",
+    img: "/img/img-3.png",
+    liveLink: "smart-diabetes-prediction.streamlit.app",
+    codeLink: "https://github.com/piyushwattamwar/Smart-Diabetes-Prediction",
+  },
   {
     title: "🍽️ Recipe Finder — Meal Discovery Web App",
     description:
       "Recipe Finder is a responsive web app built with HTML, CSS, and JavaScript, allowing users to search, filter, and explore recipes using the MealDB API. It offers real-time meal info, detailed recipes, and works perfectly across all devices.",
-    img: "/img/img-1.png",
+    img: "/img/img-4.png",
     liveLink: "https://piyushwattamwar.github.io/Recipe-Finder-/",
     codeLink: "https://github.com/piyushwattamwar/Recipe-Finder-",
   },
 
   {
-    title: "Swadisht – Restaurant Website",
+    title: "Swadisht – Restaurant Website(UI)",
     description:
       "Swadisht is a responsive food restaurant website built with HTML, CSS, and Bootstrap 5, showcasing the menu, about section, contact info, and a reservation form. Designed for a smooth user experience across all devices.",
-    img: "/img/img-1.png",
+    img: "/img/img-6.png",
     liveLink: "https://piyushwattamwar.github.io/Restaurant_Website/",
     codeLink: "https://github.com/piyushwattamwar/Restaurant_Website",
   },
-  
 ];
 
 const Projects = () => {

@@ -6,7 +6,7 @@ const skills = [
   {
     category: "Languages",
     icon: <FaCode className="text-3xl text-crimson" />,
-    items: ["C++","Python","HTML", "CSS", "JavaScript", "React", "Express", "Node"],
+    items: ["C++","Python(Basics)","HTML", "CSS", "JavaScript", "React", "Express", "Node"],
   },
   {
     category: "Databases",

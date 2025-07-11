@@ -2,33 +2,27 @@ import React from "react";
 
 const certifications = [
   {
-    title: "Flipkart Grid 6.0 - National Level Competition",
+    title: " National Road Safety Ideathon",
+    issuer: "NHAI HOAI",
+    year: "2025",
+    certificateLink: "#",
+  },
+  {
+    title: "Flipkart Grid - National Level Competition",
     issuer: "Flipkart",
     year: "2024",
     certificateLink: "#",
   },
   {
-    title: "Google Cloud Study Jam",
-    issuer: "Google Developers",
+    title: " Bootcamp on Artificial Intelligence",
+    issuer: "CDAC Pune",
     year: "2024",
     certificateLink: "#",
   },
   {
-    title: "IBM Generative AI Hackathon",
+    title: "IBM Generative AI ",
     issuer: "IBM SkillsBuild",
     year: "2024",
-    certificateLink: "#",
-  },
-  {
-    title: "Introduction to Data Structures in C++",
-    issuer: "Coding Ninjas",
-    year: "2023",
-    certificateLink: "#",
-  },
-  {
-    title: "MongoDB Basics",
-    issuer: "MongoDB University",
-    year: "2023",
     certificateLink: "#",
   },
 ];
@@ -53,14 +47,7 @@ const Certifications = () => {
                 {cert.issuer} &mdash;{" "}
                 <span className="italic">{cert.year}</span>
               </p>
-              <a
-                href={cert.certificateLink}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="mt-2 inline-block text-crimson hover:underline"
-              >
-                View Certificate →
-              </a>
+            
             </div>
           ))}
         </div>
