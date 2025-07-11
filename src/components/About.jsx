@@ -31,8 +31,8 @@ const About = () => {
             websites, and real estate listings.
           </p>
           <p className="text-gray-700 mb-4">
-            Beyond academics, I actively participate in hackathons and tech
-            events such as Flipkart Grid, Google Cloud Study Jam, and IBM
+            Beyond academics, I actively participate in tech
+            events such as Flipkart Grid,Ideathon and IBM
             Generative AI. I'm always excited to learn, collaborate,
             and contribute to impactful projects that solve real-world problems
             through tech.
