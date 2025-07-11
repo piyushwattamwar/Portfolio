@@ -14,7 +14,7 @@ const projects = [
     description:
       "Smart Diabetes Predictor is an interactive web app built with Streamlit and machine learning. It predicts diabetes risk using medical parameters like BMI, glucose, and blood pressure. Features include multi-language support, voice input/output, dark mode, charts, and a model trained with Logistic Regression, Random Forest, and XGBoost — optimized using SMOTE.",
     img: "/img/img-3.png",
-    liveLink: "smart-diabetes-prediction.streamlit.app",
+    liveLink: "https://smart-diabetes-prediction.streamlit.app/",
     codeLink: "https://github.com/piyushwattamwar/Smart-Diabetes-Prediction",
   },
   {
